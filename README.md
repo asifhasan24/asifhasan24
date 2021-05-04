@@ -8,17 +8,19 @@ My Resume :
 
 SKILLS
 
+Mobile Application:Flutter
 
-Comfortable : JavaScript,ES6,React,React Router,PHP,Wordpress,HTML,CSS,Bootstrap,C,Python
+
+Comfortable : JavaScript,ES6,React,React Router,HTML,CSS,Bootstrap,C,Python
 
 
 Familiar:TypeScript,Redux,Node.js,MongoDB,MySql,Material-UI,
 Formik
 
-Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase
+Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase.android studio
 
 
-- 🔭 I’m currently working on  MERN Web Devlopment
+- 🔭 I’m currently working on  MERN Web Devlopment and Flutter
 
 
 
