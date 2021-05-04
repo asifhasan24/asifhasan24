@@ -8,7 +8,7 @@ My Resume :
 
 SKILLS
 
-Mobile Application:Flutter
+Mobile Application : Flutter
 
 
 Comfortable : JavaScript,ES6,React,React Router,HTML,CSS,Bootstrap,C,Python
