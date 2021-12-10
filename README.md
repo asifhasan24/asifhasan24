@@ -13,16 +13,17 @@ SKILLS
 Mobile Application : Flutter
 
 
-Comfortable : JavaScript,ES6,React,React Router,HTML,CSS,Bootstrap,C,Python
+Comfortable : JavaScript,ES6,React,React Router,HTML,CSS,Bootstrap,C++(DSA)
 
 
 Familiar:TypeScript,Redux,Node.js,MongoDB,MySql,Material-UI,
 Formik
 
-Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase.android studio
+Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase,android studio
 
 
-- 🔭 I’m currently working on  MERN Web Devlopment and Flutter
+- 🔭 I’m currently working on  MERN Web Devlopment and Flutte
+- Solving problem on leetcode by c++
 
 
 
