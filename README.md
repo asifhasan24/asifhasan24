@@ -13,10 +13,10 @@ SKILLS
 Mobile Application : Flutter
 
 
-Comfortable : JavaScript,ES6,React,React Router,HTML,CSS,Bootstrap,C++(DSA)
+Comfortable : JavaScript,ES6,React,React Router,Node.js,HTML,CSS,Bootstrap,C++(DSA)
 
 
-Familiar:TypeScript,Redux,Node.js,MongoDB,MySql,Material-UI,
+Familiar:TypeScript,Redux,Next.js,MongoDB,MySql,Material-UI,
 Formik
 
 Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase,android studio
