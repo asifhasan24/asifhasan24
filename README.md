@@ -1,6 +1,9 @@
 ### Hi there 👋 This is Asif Hasan.
-Electronics and Telecommunication Engineering Student
-Full Stack Web Devloper
+Electronics and Telecommunication Engineering Student by degree
+
+
+programmer by passion
+
 
 leetcode profile : https://leetcode.com/AsifHasan/
 
@@ -10,19 +13,23 @@ My Resume :
 
 SKILLS
 
+Languages : JavaScript,C++,Python
+
+
 Mobile Application : Flutter
 
 
-Comfortable : JavaScript,ES6,React,React Router,Node.js,HTML,CSS,Bootstrap,C++(DSA)
+Comfortable : ES6,React,React Router,Redux,Node.js,MongoDB,Data structure & Algorithm
 
 
-Familiar:TypeScript,Redux,Next.js,MongoDB,MySql,Material-UI,
-Formik
-
-Tools : Git,VS code,Notepad++,Heroku,Netlify,Chrome Dev Tools,Firebase,android studio
+Familiar:TypeScript,Next.js,MySql,Material-UI
 
 
-- 🔭 I’m currently working on  MERN Web Devlopment and Flutte
+Tools : Git,Heroku,Netlify,Firebase
+
+
+- 🔭 I’m currently working on  MERN Web Devlopment and Flutter
+- learing Data Science for future carrer
 - Solving problem on leetcode by c++
 
 
