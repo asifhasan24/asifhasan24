@@ -6,10 +6,10 @@
 
 I am an aspiring AI researcher with a strong background in **artificial intelligence**, **machine learning**, and **computer vision**. I am particularly interested in predictive analysis, medical imaging, agronomy applications, and explainable AI (XAI). I am currently seeking PhD or MSc opportunities where I can further develop my expertise and contribute to innovative research that solves real-world problems.
 
----
+
 ### 🌱 Currently Looking For
 I am seeking a PhD or MSc position where I can leverage my background in AI, machine learning, and computer vision to contribute to impactful research and advance my skills in a challenging academic environment.
----
+
 
 ### 🎓 Education
 
