@@ -1,91 +1,96 @@
 # Asif Hasan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asif-hasan-6865101a9) [![GitHub](https://img.shields.io/badge/GitHub-asifhasan24-lightgrey)](https://github.com/asifhasan24) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green)](https://www.researchgate.net/profile/Mohammad-Hasan225)
+**Data Scientist | AI Researcher | ML Engineer**  
+Chittagong, Bangladesh  
+📧 [asifhasan2189@gmail.com](mailto:asifhasan2189@gmail.com)  
+📞 +8801817226718  
 
-### 👋 About Me
-
-I am an aspiring AI researcher with a strong background in **artificial intelligence**, **machine learning**, and **computer vision**. I am particularly interested in predictive analysis, medical imaging, agronomy applications, and explainable AI (XAI). I am currently seeking PhD or MSc opportunities where I can further develop my expertise and contribute to innovative research that solves real-world problems.
-
-
-### 🌱 Currently Looking For
-I am seeking a PhD or MSc position where I can leverage my background in AI, machine learning, and computer vision to contribute to impactful research and advance my skills in a challenging academic environment.
-
-
-### 🎓 Education
-
-- **B.Sc. in Electronics & Telecommunication Engineering**  
-  Rajshahi University of Engineering & Technology, Bangladesh  
-  **CGPA**: 3.10/4.00  
-  **Year**: 2019-2024
+[GitHub](https://github.com/asifhasan24) | [Google Scholar](https://scholar.google.com/citations?user=XSHtiBUAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/asif-hasan-6865101a9/)
 
 ---
 
-### 💼 Work Experience
+## 🎯 Career Objective
 
-- **Research Assistant**  
-  *Qatar University Machine Learning Group*  
-  **September 2024 - Present**  
-  - Focus areas: Computer Vision, Predictive Analysis, Segmentation, and Natural Language Processing (NLP).
-
-- **Machine Learning Engineer Intern**  
-  *Anwar Technologies*  
-  **July 2024 - September 2024**  
-  - Developed an Optical Character Recognition (OCR) system and worked on real-world applications of ML.
+Aspiring to solve real-world problems using state-of-the-art AI technologies. Passionate about Bioinformatics, Medical Imaging, AI in Agronomy and Fintech, and LLM training. Actively exploring privacy-preserving machine learning approaches using Federated Learning and Homomorphic Encryption.
 
 ---
 
-### 🧑‍💻 Skills
+## 🎓 Education
 
-- **Programming Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn
-- **AI/ML Techniques**: CNN, RNN, Transformers, Attention Mechanism, Explainable AI (XAI), GAN
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Development Tools**: Google Colab, Kaggle, VS Code, MATLAB, Codeblocks, Heroku, Netlify
+**Rajshahi University of Engineering & Technology (RUET)**  
+B.Sc. in Electronics & Telecommunication Engineering  
+📅 2019 – 2024 | 🎓 CGPA: 3.11/4.00  
 
----
+**Chittagong College**  
+Higher Secondary Certificate (HSC), GPA: 5.00  
 
-### 📈 Research & Publications
-
-#### Journals
-1. **An End-to-End Lightweight Multi-Scale CNN for the Classification of Lung and Colon Cancer with XAI Integration**  
-   - Developed a custom lightweight CNN model with integrated Grad-CAM and SHAP for interpretability.
-   - [Publication Link](https://www.mdpi.com/2227-7080/12/4/56)
-
-2. **Prediction of Fetal Brain Gestational Age Using Multi-Head Attention with Xception**  
-   - Created a model using Xception with multi-head attention for accurate gestational age prediction.
-   - [Publication Link](https://doi.org/10.1016/j.compbiomed.2024.109155)
-
-
-#### Conferences
-1. **Brain Tumor Detection Using Feature Extraction and Ensemble Learning with a Smart Web Application**  
-   - Built a brain tumor detection model integrating feature extraction, ensemble learning, and web application support.
-   - [Publication Link](https://ieeexplore.ieee.org/abstract/document/10303497/)
-
-2. **Early Prediction of Crop Yield in Bangladesh Using Ensemble Learning** *(Accepted)*  
-   - Created a predictive model for crop yield forecasting using ensemble learning techniques.
+**Govt. Muslim High School**  
+Secondary School Certificate (SSC), GPA: 5.00  
 
 ---
 
-### 📘 Book Chapter
+## 💼 Work Experience
 
-- **Explainable Automated Brain Tumor Detection Using CNN**  
-  - Developed a CNN model for brain tumor classification with Grad-CAM for interpretability.
-  - [Chapter Link](https://link.springer.com/chapter/10.1007/978-981-99-8937-9_33#:~:text=In%20this%20work%2C%20an%20explainable)
+### 🔹 Data Scientist – SSL Wireless (Apr 2025 – Present)
+- Developed spoof detection models for user authentication.
+- Built RAG-based chatbot with knowledge graphs for banking.
+- Led gaze-based customer analytics for Unilever BD via billboard monitoring.
 
----
+### 🔹 Research Assistant (Remote) – Qatar University ML Group (Sep 2024 – Present)
+- Focused on computer vision, segmentation, federated learning, and deep learning.
 
-### 📫 Contact
-
-- **Email**: [asifhasan2189@gmail.com](mailto:asifhasan2189@gmail.com)
-- **Phone**: +8801817226718
-- **LinkedIn**: [linkedin.com/in/asif-hasan-6865101a9](https://www.linkedin.com/in/asif-hasan-6865101a9)
-- **ResearchGate**: [researchgate.net/profile/Mohammad-Hasan225](https://www.researchgate.net/profile/Mohammad-Hasan225)
+### 🔹 Machine Learning Engineer (Intern) – Anwar Technologies (Jun 2024 – Aug 2024)
+- Built an Optical Character Recognition (OCR) system.
 
 ---
 
+## 🛠 Skills
+
+- **Languages:** Python, C, C++, JavaScript  
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, Unsloth AI, LangGraph  
+- **Techniques:** CNN, RNN, LSTM, YOLO, NLP, Transformers, GANs, RAG, LLMs, XAI  
+- **Tools:** Docker, FastAPI, Git, Gradio  
+- **Databases:** MySQL, MongoDB  
+
+---
+
+## 📚 Research Publications
+
+### 📘 Journal Papers
+1. **Multi-Scale CNN for Lung and Colon Cancer (XAI integrated)**  
+   [MDPI](https://www.mdpi.com/2227-7080/12/4/56)
+
+2. **Fetal Brain Age Estimation with Multi-Head Attention**  
+   [Elsevier](https://doi.org/10.1016/j.compbiomed.2024.109155)
+
+3. **Mulberry Leaf Disease Detection using CNN-ViT (XAI)**  
+   [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325188)
+
+4. **Lung Segmentation with Attention Residual U-Net**  
+   [Diagnostics](https://www.mdpi.com/2075-4418/15/7/854)
+
+5. **Intrusion Detection in WSN via XAI Ensemble Model**  
+   [IEEE Access](https://ieeexplore.ieee.org/document/10836702)
+
+6. **Concatenated CNN Attention Model for Lung Cancer**  
+   [IEEE Access](https://ieeexplore.ieee.org/document/11008645)
 
 
+### 🎤 Conferences
+- **Brain Tumor Detection via Transfer Learning and Ensemble Methods**  
+  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10303497/)
 
+- **Beamspace Estimation in mmWave MIMO Systems**  
+  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10427980)
 
-Thank you for visiting my profile! Please feel free to contact me if you are interested in collaboration, research opportunities, or learning more about my work.
+### 📖 Book Chapter
+- **Explainable Brain Tumor Detection with CNN**  
+  [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8937-9_33)
+
+## 📄 CV
+
+Click [here to view the PDF version of my CV](./Asif_RUET_ML.pdf)
+
+---
+
+_Thank you for visiting my CV repository! Feel free to reach out or connect._
