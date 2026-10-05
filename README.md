@@ -1,9 +1,8 @@
 # Asif Hasan
 
 **Data Scientist | AI Researcher | ML Engineer**  
-Chittagong, Bangladesh  
-📧 [asifhasan2189@gmail.com](mailto:asifhasan2189@gmail.com)  
-📞 +8801817226718  
+Carbondale, USA 
+📧 [asifhasan2189@gmail.com](mailto:asifhasan2189@gmail.com)   
 
 [GitHub](https://github.com/asifhasan24) | [Google Scholar](https://scholar.google.com/citations?user=XSHtiBUAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/asif-hasan-6865101a9/)
 
