@@ -17,30 +17,28 @@ Aspiring to solve real-world problems using state-of-the-art AI technologies. Pa
 
 ## 🎓 Education
 
+**Southern Illinois University Carbondale**  
+PhD student in Computer Science
+📅 Aug, 2026  – Present
+
 **Rajshahi University of Engineering & Technology (RUET)**  
 B.Sc. in Electronics & Telecommunication Engineering  
-📅 2019 – 2024 | 🎓 CGPA: 3.11/4.00  
-
-**Chittagong College**  
-Higher Secondary Certificate (HSC), GPA: 5.00  
-
-**Govt. Muslim High School**  
-Secondary School Certificate (SSC), GPA: 5.00  
+📅 2019 – 2024 | 🎓 CGPA: 3.11/4.00   
 
 ---
 
 ## 💼 Work Experience
 
-### 🔹 Data Scientist – SSL Wireless (Apr 2025 – Present)
+
+### 🔹 AI Engineer – Banglalink (Apr 2026 – Aug 2026)
+- Customer Complaint Solutions.
+- Network Traffic Prediction.
+
+
+### 🔹 Data Scientist – SSL Wireless (Apr 2025 – Mar 2026)
 - Developed spoof detection models for user authentication.
 - Built RAG-based chatbot with knowledge graphs for banking.
 - Led gaze-based customer analytics for Unilever BD via billboard monitoring.
-
-### 🔹 Research Assistant (Remote) – Qatar University ML Group (Sep 2024 – Present)
-- Focused on computer vision, segmentation, federated learning, and deep learning.
-
-### 🔹 Machine Learning Engineer (Intern) – Anwar Technologies (Jun 2024 – Aug 2024)
-- Built an Optical Character Recognition (OCR) system.
 
 ---
 
@@ -53,39 +51,6 @@ Secondary School Certificate (SSC), GPA: 5.00
 - **Databases:** MySQL, MongoDB  
 
 ---
-
-## 📚 Research Publications
-
-### 📘 Journal Papers
-1. **Multi-Scale CNN for Lung and Colon Cancer (XAI integrated)**  
-   [MDPI](https://www.mdpi.com/2227-7080/12/4/56)
-
-2. **Fetal Brain Age Estimation with Multi-Head Attention**  
-   [Elsevier](https://doi.org/10.1016/j.compbiomed.2024.109155)
-
-3. **Mulberry Leaf Disease Detection using CNN-ViT (XAI)**  
-   [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0325188)
-
-4. **Lung Segmentation with Attention Residual U-Net**  
-   [Diagnostics](https://www.mdpi.com/2075-4418/15/7/854)
-
-5. **Intrusion Detection in WSN via XAI Ensemble Model**  
-   [IEEE Access](https://ieeexplore.ieee.org/document/10836702)
-
-6. **Concatenated CNN Attention Model for Lung Cancer**  
-   [IEEE Access](https://ieeexplore.ieee.org/document/11008645)
-
-
-### 🎤 Conferences
-- **Brain Tumor Detection via Transfer Learning and Ensemble Methods**  
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10303497/)
-
-- **Beamspace Estimation in mmWave MIMO Systems**  
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10427980)
-
-### 📖 Book Chapter
-- **Explainable Brain Tumor Detection with CNN**  
-  [Springer](https://link.springer.com/chapter/10.1007/978-981-99-8937-9_33)
 
 ## 📄 CV
 
